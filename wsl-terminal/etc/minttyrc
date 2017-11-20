@@ -1,0 +1,16 @@
+BoldAsFont=-1
+FontHeight=14
+Font=Migu 1M
+Scrollbar=none
+Term=xterm-256color
+CursorType=block
+AllowBlinking=yes
+Locale=ja_JP
+Charset=UTF-8
+BellType=0
+BellTaskbar=no
+Printer=*
+Language=@
+RightClickAction=paste
+CopyAsRTF=no
+
