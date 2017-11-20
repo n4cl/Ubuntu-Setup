@@ -1,0 +1,2 @@
+# Ubuntu-Setup
+Ubuntu をインストールしたらやること.
