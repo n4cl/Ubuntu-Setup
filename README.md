@@ -1,2 +1,4 @@
-# Ubuntu-Setup
-Ubuntu をインストールしたらやること.
+WSL-Setup
+===
+Windows Subsystem for Linux のセットアップ
+
