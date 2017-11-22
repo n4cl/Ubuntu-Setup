@@ -13,4 +13,6 @@ Printer=*
 Language=@
 RightClickAction=paste
 CopyAsRTF=no
+Transparency=low
+ThemeFile=base16-eighties.minttyrc
 
