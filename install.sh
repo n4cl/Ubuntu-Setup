@@ -8,6 +8,7 @@ sudo apt upgrade
 sudo apt -y install language-pack-ja
 sudo apt -y install vim
 sudo apt -y install git
+sudo apt -y install g++
 
 mkdir -p ~/workspace
 cd ~/workspace
