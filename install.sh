@@ -9,6 +9,7 @@ sudo apt -y install language-pack-ja
 sudo apt -y install vim
 sudo apt -y install git
 sudo apt -y install g++
+sudo apt -y install make
 
 mkdir -p ~/workspace
 cd ~/workspace
